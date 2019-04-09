@@ -1,0 +1,3 @@
+Satellite Position Tracker uses the Pyorbital library to track the current cordinates of a satellite(LONGITUDE,LATTITUDE,ALTITUDE) during the time the user asked for it .
+Other than this program also has the capability to track the position of a sattelite everytime after 1 hour and note it down .For eg the Observation of sattelite Suomi NPP has been done.
+ 
