@@ -1,0 +1,19 @@
+Just Click on the enigma file present in this folder
+
+In order to explain the working of enigma we have attached to big file (51.3 MB) with some random content which was transfered from our system into the source file in about 5 seconds.
+
+After Using the export function you can see multiple files one is savefile which will help in removing data from source file and another file is newfile which is named as the number of transfer like if it is 5 th transfer using software then the name of the newfile will be 
+newfile 5.txt
+
+
+After using add function the software will create a savefile which will also be named on the number of transfer
+
+In remove function you need to select the 
+file and then the savefile and software will delete that segment from the file.
+For using the remove function choose source in file and '1savefile' in choosing the savefile.
+
+you can create your own files and use them to test out our functions  
+
+
+for add function choose source file as the file named as 'source' in folder 
+and place the target file in any destination on your computer or create it and select it as the file where data needs to be added the file 'target' is empty for testing the process.
