@@ -10,8 +10,8 @@ for q in range(0,100000000):
 		else:
 			tex=gTTS(x)
 			tex.save('run'+str(q)+'.mp3')
-			playsound.playsound('C:\\Users\\siddhant\\Desktop\\samridh\\codes\\run'+str(q)+'.mp3', True)
-			os.remove('C:\\Users\\siddhant\\Desktop\\samridh\\codes\\run'+str(q)+'.mp3')
+			playsound.playsound('C:\\path_of_sound_file\\run '+str(q)+'.mp3', True)
+			os.remove('C:\\path_of_sound_file\\run'+str(q)+'.mp3')
 			with open('fl.txt',mode='r')as f:
 				y=f.read()
 				if x != y:
